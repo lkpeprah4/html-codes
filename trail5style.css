@@ -1,0 +1,16 @@
+P{
+    color: deeppink;
+}
+
+/*. for class syti*/
+.Renewable{
+    color: blue;
+    font-size: 22;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr{
+    height: 20px;
+    background-color:burlywood;
+    background: linear-gradient(to left,red,blue,);
+}
